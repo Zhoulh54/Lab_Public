@@ -1,1 +1,1 @@
-# Lab_Public
+print("Hello World")
